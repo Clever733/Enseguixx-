@@ -31,7 +31,7 @@
   <h1>🚀 Mi página funciona</h1>
   <p>Bienvenido</p>
 
-  <a href="https://wa.me/573000000000">WhatsApp</a>
+  <a href="https://wa.me/573108804044">WhatsApp</a>
   <a href="tel:+573108804044">Llamar</a>
 
 </body>
